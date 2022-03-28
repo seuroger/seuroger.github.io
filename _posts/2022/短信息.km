@@ -1,0 +1,525 @@
+{
+    "root": {
+        "data": {
+            "id": "cikctm8a2mw0",
+            "created": 1647338671431,
+            "text": "短消息"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cikdunik3og0",
+                    "created": 1647341573703,
+                    "text": "消息类型"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cikf03z0eso0",
+                            "created": 1647344822457,
+                            "text": "文本消息"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikf0pxpib40",
+                                    "created": 1647344870268,
+                                    "text": "普通短消息"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cikf2vzkfrs0",
+                                            "created": 1647345040169,
+                                            "text": "类型1"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cikf2wylsrk0",
+                                            "created": 1647345042288,
+                                            "text": "类型2"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cikf2xo7rxs0",
+                                            "created": 1647345043836,
+                                            "text": "类型3"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cikf2yh78ps0",
+                                            "created": 1647345045589,
+                                            "text": "类型4"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cikf0vcspt40",
+                                    "created": 1647344882064,
+                                    "text": "TL短消息"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cikf052n1hs0",
+                            "created": 1647344824853,
+                            "text": "状态消息"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikf0cn1ouw0",
+                                    "created": 1647344841325,
+                                    "text": "普通状态消息"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cikf0hohgiw0",
+                                    "created": 1647344852296,
+                                    "text": "紧急状态消息"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cikf0lm23yo0",
+                                    "created": 1647344860856,
+                                    "text": "其他特殊状态消息"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cikduty7ac00",
+                    "created": 1647341587710,
+                    "text": "操作方式"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cikdx2cts0o0",
+                            "created": 1647341762737,
+                            "text": "新建短信",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikdyb0v7x40",
+                                    "created": 1647341859969,
+                                    "text": "添加联系人"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cikdzi6b8k80",
+                                            "created": 1647341953900,
+                                            "text": "输入号码"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cike698zns00",
+                                                    "created": 1647342483020,
+                                                    "text": "匹配联系人"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cike798lax40",
+                                                            "created": 1647342561360,
+                                                            "text": "多种号码类型"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cike6fg9gb40",
+                                                    "created": 1647342496520,
+                                                    "text": "没有匹配联系人"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cike5esxgyg0",
+                                            "created": 1647342416745,
+                                            "text": "直接添加联系人"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cikdycfvpnk0",
+                                    "created": 1647341863053,
+                                    "text": "添加文本"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cike92b5mow0",
+                                            "created": 1647342703006,
+                                            "text": "输入文本"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cike96gh4zc0",
+                                                    "created": 1647342712034,
+                                                    "text": "#号切换输入法"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cike9cv54y00",
+                                            "created": 1647342725982,
+                                            "text": "插入"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cikeamlht000",
+                                                    "created": 1647342825530,
+                                                    "text": "快捷文本（用例放到短数据模板中）"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cikebzfezao0",
+                                                            "created": 1647342931825,
+                                                            "text": "发送"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cikec60piwo0",
+                                                            "created": 1647342946173,
+                                                            "text": "编辑后发送"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cikeanmlpz40",
+                                                    "created": 1647342827774,
+                                                    "text": "状态消息"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cikebdorkbk0",
+                                                            "created": 1647342884501,
+                                                            "text": "无法编辑"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cikebqgpz6g0",
+                                                            "created": 1647342912313,
+                                                            "text": "删除后输入文本"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cikdzmbwbvk0",
+                                    "created": 1647341962944,
+                                    "text": "默认联系人"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cikei3hk43s0",
+                            "created": 1647343410847,
+                            "text": "通知进入消息列表"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikemlwutt40",
+                                    "created": 1647343764411,
+                                    "text": "检查消息列表"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ciken0c1kbc0",
+                                            "created": 1647343795804,
+                                            "text": "新消息/未读消息，使用小红点进行提示，\n用户阅读消息后，小红点消失"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cikelm9yheg0",
+                            "created": 1647343686839,
+                            "text": "已有消息"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikem17to000",
+                                    "created": 1647343719361,
+                                    "text": "回复"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cikem47ol8o0",
+                                    "created": 1647343725883,
+                                    "text": "发送"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cikekgquxtc0",
+                            "created": 1647343596436,
+                            "text": "重发"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikeicxq9hs0",
+                            "created": 1647343431416,
+                            "text": "删除"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikeiwa8q3s0",
+                            "created": 1647343473531,
+                            "text": "删除全部"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikej53rxew0",
+                            "created": 1647343492731,
+                            "text": "转发"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikejacngyo0",
+                            "created": 1647343504152,
+                            "text": "编辑"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikejh0dxsw0",
+                            "created": 1647343518648,
+                            "text": "提取号码"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikejnjh7qg0",
+                            "created": 1647343532863,
+                            "text": "呼叫"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikeq4lbeew0",
+                            "created": 1647344040164,
+                            "text": "一键发送（放到短数据模板中）"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cikegurt3s00",
+                    "created": 1647343313511,
+                    "text": "报告"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cikeh355ab40",
+                            "created": 1647343331732,
+                            "text": "发送报告"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikeh422ew00",
+                            "created": 1647343333723,
+                            "text": "接收报告"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikeh4pfh480",
+                            "created": 1647343335135,
+                            "text": "消费报告"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cikeqvwp4540",
+                    "created": 1647344099626,
+                    "text": "中途退出"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cikerpte23k0",
+                            "created": 1647344164729,
+                            "text": "新建中途退出"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikes53n6fk0",
+                                    "created": 1647344198001,
+                                    "text": "已编辑文本，未添加联系人"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cikesr1ztdc0",
+                                    "created": 1647344245790,
+                                    "text": "已编辑文本，已添加联系人"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ciket2oqmzc0",
+                                    "created": 1647344271110,
+                                    "text": "未编辑文本，已添加联系人"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cikezo9cm8w0",
+                            "created": 1647344788254,
+                            "text": "消息回复，中途退出，未发送"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cikf38qagww0",
+                    "created": 1647345067906,
+                    "text": "容量"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cikf41nrmxc0",
+                            "created": 1647345130880,
+                            "text": "状态消息容量"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikf42eqwuw0",
+                            "created": 1647345132512,
+                            "text": "快捷文本容量"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cikf434q9a80",
+                            "created": 1647345134083,
+                            "text": "短信条数"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cikf4l6z59c0",
+                                    "created": 1647345173401,
+                                    "text": "替换策略"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cikf43x6js00",
+                            "created": 1647345135803,
+                            "text": "短信长度"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
